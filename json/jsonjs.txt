@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head> 
+   <title>JSON example</title>
+ 
+
+</head>
+
+<body>
+  
+   <script type="text/javascript">
+   let person =
+  
+ 
+  console.log(person)
+
+</script>
+</body>
+</html>
